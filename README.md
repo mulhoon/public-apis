@@ -1597,6 +1597,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Spanish random names](https://random-names-api.herokuapp.com/public) | Generate spanish names (with gender) randomly | No | Yes | Unknown |
 | [Spanish random words](https://palabras-aleatorias-public-api.herokuapp.com) | Generate spanish words randomly | No | Yes | Unknown |
 | [This Person Does not Exist](https://thispersondoesnotexist.com) | Generates real-life faces of people who do not exist | No | Yes | Unknown |
+| [Toaster](https://toaster.dev) | Generate any fake data | No | Yes | No |
 | [Toolcarton](https://testimonialapi.toolcarton.com/) | Generate random testimonial data | No | Yes | Unknown |
 | [UUID Generator](https://www.uuidtools.com/docs) | Generate UUIDs | No | Yes | No |
 | [What The Commit](http://whatthecommit.com/index.txt) | Random commit message generator | No | No | Yes |
